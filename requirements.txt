@@ -1,4 +1,4 @@
-nltk
+# This is a list of dependencies for the project
 flask
 numpy
 pandas
